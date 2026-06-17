@@ -159,3 +159,83 @@ Ultimately, it should not be forgotten that the motivation behind the establishm
 
 The optimal and expected path for any institution seeking our expertise is **organic embedding**: partner organizations must embed their own personnel directly into the Purgatoria community. 
 These individuals are then trained from first principles by our community mentors, turning them into highly capable, internal communication assets for their respective institutions while strengthening the overarching public knowledge network.
+
+## 2. Institutional Structure
+
+The Purgatoria Organisation possesses a multi-dimensional, hybrid institutional architecture engineered to seamlessly integrate its grassroots decentralized community layer with formal legal, fiscal, commercial, and academic frameworks. 
+
+This comprehensive ecosystem structurally decouples yet operationally coordinates seven distinct vectors under a unified strategic vision: a non-hierarchical human infrastructure (Community), a radically transparent financial tracking engine (Collective), a legally recognized regulatory and civil defense vehicle (Association), an international grant and cross-border compliance gateway (Foundation), an industrial risk-absorbing commercial R&D arm (Incorporated), an immutable scientific data archiving wing (Research Collective). 
+
+This modular compartmentalization preserves maximal operational agility across the ecosystem while providing advanced liability decoupling, regulatory resilience, and institutional anti-fragility against systemic vulnerabilities.
+
+### 2.1 Purgatoria Community
+Purgatoria is a diverse collective of amateur radio enthusiasts, ranging in age from 12 to over 80, encompassing a vast array of expertise including engineers, academics, software developers, public officials, law enforcement officers, corporate leaders, legal and medical professionals, emergency responders, educators, and students.
+
+Despite this professional diversity, Purgatoria operates on a foundation of absolute equality: regardless of age, occupation, or professional rank, every member stands on the same level, united by our shared identity as amateur radio operators. 
+
+Purgatoria is a community forged by the collective consciousness of its members. Within our ranks, there is no hierarchy; group administrators hold no seniority over members, and there is no distinction in status between those who have been with us for years and those who joined yesterday.
+
+We are a coalition of individuals united by a singular purpose: to bridge our respective gaps in knowledge, to educate future generations, and to achieve meaningful impact for our country and the world. 
+By compensating for one another’s weaknesses and acting in synergistic cooperation, we operate with a speed and rate of success that is unparalleled.
+
+### 2.2 Purgatoria Collective
+Purgatoria Collective is the community-facing coordination layer of the ecosystem, structured through the [**Open Collective**](https://opencollective.com/purgatoria) framework to support radical transparency, distributed participation, and public accountability.
+
+Its function is to aggregate grassroots support into a coherent financial and operational engine, enabling crowd-sourced funding, shared resource pooling, and open ledger maintenance in a manner that preserves institutional memory and makes every transaction auditable in real time by the wider community.
+
+This architecture ensures that no financial decision can be siloed, obfuscated, or retroactively altered without immediate detection, anchoring the organization’s economic integrity in mathematically auditable public record rather than in institutional trust alone.
+
+It operates without independent legal personality, functioning instead under the fiscal hosting umbrella provided by Open Collective's established legal and compliance infrastructure, thereby enabling the community to receive and disburse funds at organizational scale without the administrative overhead of independent entity registration. 
+
+This arrangement preserves maximum operational agility at the community layer while maintaining full compliance with applicable financial reporting obligations through the host entity's established regulatory posture.
+
+### 2.3 Purgatoria Association (TBD)
+Purgatoria Association is the formally registered, non-profit Amateur Radio Association that constitutes the legally recognized operational shell for spectrum-related activity, repeater deployment, and regulated radio infrastructure. 
+
+Under state regulatory requirements, this entity is necessary to lawfully secure RF allocations, construct and operate physical radio repeaters, and maintain the compliance posture required for licensed amateur radio operations and emergency communications work.
+
+Furthermore, the Association operates as the recognized legal signatory empowered to execute formal, binding MoUs and operational protocols with national civil defense agencies and telecommunications authorities. 
+This legal framework ensures that Purgatoria’s deployment grid can be seamlessly integrated into public safety networks during emergency disaster communications.
+
+### 2.4 Purgatoria Foundation (TBD)
+Purgatoria Foundation is the international fiscal hosting and compliance layer designed to absorb cross-border support, manage foreign-currency inflows, and maintain regulatory clarity across multiple jurisdictions. 
+
+Its purpose is to provide a legally coherent gateway for grants, micro-patronage, and digital donations originating outside the domestic operating environment, while insulating local entities from unnecessary tax complexity, currency friction, and jurisdictional exposure.
+
+This structure is especially important for international grants, institutional philanthropy, and borderless contribution models that require disciplined financial stewardship. 
+
+By centralizing foreign-facing compliance and fiscal hosting within a dedicated layer, Purgatoria can preserve operational continuity, remain compliant across jurisdictions, and protect domestic nonprofit and community structures from avoidable legal and accounting burden.
+
+### 2.5 Purgatoria Incorporated (TBD)
+Purgatoria Incorporated is the commercial research, development, and manufacturing arm of the ecosystem, structured as a liability-buffering corporate entity such as an LLC or Inc. 
+
+Its role is to contain industrial risk, manage hardware procurement and production pipelines, and provide the legal perimeter required for commercial operations that should not be absorbed by the nonprofit association or by individual operators. 
+
+This separation is critical for liability decoupling, contractual clarity, and operational resilience.
+
+It provides the legal infrastructure required to sign formal Non-Disclosure Agreements (NDAs) and interface seamlessly with commercial enterprises and state contractors, allowing the ecosystem to engage in high-level defense and infrastructure projects.
+
+### 2.6 Purgatoria Research Collective
+Purgatoria Research Collective constitutes the academic and scientific archival wing of the ecosystem, structured around the [**Zenodo**](https://zenodo.org/communities/purgatoria) open-access repository network operated under the auspices of CERN and the European OpenAIRE infrastructure.
+
+Its primary function is the formal archiving of open-access research papers, RF engineering documentation, network telemetry datasets, folklore preservation materials, and related technical studies under permanent Digital Object Identifiers (DOIs). 
+
+By publishing under persistent identifiers and maintaining versioned, open metadata, the Research Collective prevents scientific erasure and enables independent verification, reproducibility, and academic citation. 
+
+The Collective’s archival practice enforces data governance standards, metadata completeness, and retention policies that satisfy academic, funder, and regulatory expectations for research integrity and long‑term stewardship.
+
+### 2.7 TA Mesh Sub-Community
+[TA Mesh](https://www.facebook.com/tamesh.org) or "[Meshtastic Turkiye Toplulugu](https://www.facebook.com/groups/tamesh)" serves as our specialized sub-community, bridging the gap between experienced amateur radio operators and newcomers, while focusing entirely on the proliferation, deployment, and optimization of decentralized off-grid mesh networks across the region.
+
+The areas that Purgatoria focuses on in particular with TA Mesh are as follows:
+
+-   **Localizes and deploys Meshtastic infrastructure** across Turkish geography, adapting hardware configurations, channel plans, and deployment strategies to local terrain, regulatory requirements, and community needs.
+-   **Supports community members with hardware** through device advisory programs, group procurement initiatives, and hands-on configuration assistance — lowering the barrier to entry for operators new to mesh networking.
+-   **Develops localized hardware solutions**, including antenna designs optimized for Turkish geographic conditions, custom enclosures for field deployment, and power systems adapted for the region's climate and grid reliability patterns.
+-   **Pioneers decentralized, off-grid mesh network coverage** in areas underserved by conventional infrastructure, with a particular focus on building regional backbone nodes that can sustain mesh connectivity during extended grid failures.
+-   **Serves as a living testbed** for the broader Purgatoria community, providing real-world data, field reports, and operational lessons that inform our documentation, training, and advocacy work.
+
+TA Mesh helps translate Purgatoria’s broader philosophy into regional action. It is where open, low-power, infrastructure-light communication becomes tangible for people who need local resilience, practical training, and a shared technical language.
+
+In the long term, TA Mesh is intended to help establish a healthier regional ecosystem around decentralized communications: not only by using the technology, but by helping shape the culture, support the hardware pipeline, and encourage community ownership of the stack.
+
