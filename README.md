@@ -9,25 +9,25 @@ Everything pertaining to the Purgatoria Community and its projects shall be mana
 ## Table of Contents
  
 1. [Organizational Overview](https://github.com/Purgatoria/Association#1-organizational-overview)
-2. [Institutional Structure & Roles](https://)
-3. [Mission & Core Values](https://)
-4. [Capabilities & Qualifications](https://)
-5. [Operational Domains](https://)
-6. [Operational Model & Pipeline](https://)
-7. [Impact Metrics & Reporting](https://)
-8. [Sustainability & Compliance](https://)
-9. [Governance Framework](https://)
-10. [Strategic Continuity & Institutional Memory](https://)
-11. [Services & Projects](https://)
-12. [Collaboration & External Relations](https://)
-13. [Onboarding & Licensing](https://)
-14. [Education & Certification](https://)
-15. [Contributing](https://)
-16. [Ledgers & Reports](https://)
-17. [Repository Manual](https://)
-18. [Official Platforms & Resources](https://)
-19. [Legal](https://)
-20. [Contact](https://)
+2. [Institutional Structure & Roles](https://github.com/Purgatoria/Association#2-institutional-structure--roles)
+3. [Mission & Core Values](https://github.com/Purgatoria/Association#3-mission--core-values)
+4. [Capabilities & Qualifications](https://github.com/Purgatoria/Association#4-capabilities--qualifications)
+5. [Operational Domains](https://github.com/Purgatoria/Association#5-operational-domains)
+6. [Operational Model & Pipeline](https://github.com/Purgatoria/Association#6-operational-model--pipeline)
+7. [Impact Metrics & Reporting](https://github.com/Purgatoria/Association#7-impact-metrics--reporting)
+8. [Sustainability & Compliance](https://github.com/Purgatoria/Association#8-sustainability--compliance)
+9. [Governance Framework](https://github.com/Purgatoria/Association#9-governance-framework)
+10. [Strategic Continuity & Institutional Memory](https://github.com/Purgatoria/Association#10-strategic-continuity--institutional-memory)
+11. [Services & Projects](https://github.com/Purgatoria/Association#11-services--projects)
+12. [Collaboration & External Relations](https://github.com/Purgatoria/Association#12-collaboration--external-relations)
+13. [Onboarding & Licensing](https://github.com/Purgatoria/Association#13-onboarding--licensing)
+14. [Education & Certification](https://github.com/Purgatoria/Association#14-education--certification)
+15. [Contributing](https://github.com/Purgatoria/Association#15-contribution)
+16. [Ledgers & Reports](https://github.com/Purgatoria/Association#16-ledgers--reports)
+17. [Repository Manual](https://github.com/Purgatoria/Association#17-repository-manual)
+18. [Official Platforms & Resources](https://github.com/Purgatoria/Association#18-official-platforms--resources)
+19. [Legal](https://github.com/Purgatoria/Association#19-legal)
+20. [Contact](https://github.com/Purgatoria/Association#20-contact)
 
 
 ## 1. Organizational Overview
@@ -56,7 +56,7 @@ Purgatoria is an independent **research and development initiative**. We develop
 Other hand we investigate, deploy, and field‑test open‑source technologies across amateur radio, mesh networking, and disaster communications.
 Based on the experience we’ve gained throughout this process, we modify the projects we’ve utilized to meet our specific needs and develop integrations to connect them all in the most appropriate ways.
 
-Our current stack for establishing decentralized and grid-independent networks relies on open-source solutions including [Meshtastic](https://github.com/meshtastic), [Reticulum Network](https://github.com/markqvist/reticulum), [AREDN](https://github.com/aredn), [Wi-Fi HaLow](https://), and [Open MaNet](https://github.com/openmanet).
+Our current stack for establishing decentralized and grid-independent networks relies on open-source solutions including [Meshtastic](https://github.com/meshtastic), [Reticulum Network](https://github.com/markqvist/reticulum), [AREDN](https://github.com/aredn), [Wi-Fi HaLow](https://github.com/morsemicro), and [Open MaNet](https://github.com/openmanet).
 
 In addition to these structural implementations, Purgatoria operates as an open, collaborative incubation matrix, providing both the infrastructure and the social frameworks necessary for operators to engineer technical projects either autonomously or via joint working syndicates.
 
@@ -886,20 +886,26 @@ Purgatoria designs technology for the collective benefit of humanity, our techni
 We explicitly align our operations with these frameworks, not for certification purposes, but because alignment represents a genuine commitment to the values these frameworks encode.
 
 ### 8.1 Sustainable Development Goals
+The Sustainable Development Goals are a universal framework of seventeen interconnected objectives adopted by all United Nations member states in 2015 as part of the 2030 Agenda for Sustainable Development. 
 
-#### 8.1.1 SDG4 Quality Education
-Target 4.1
-SDG Indicator 4.4.1
-Target 4.7
-SDG Indicator 4.7.1
+They represent the most broadly ratified global consensus on what constitutes meaningful, measurable progress toward a world that is more equitable, more resilient, and more sustainable; spanning domains from education and infrastructure to institutional integrity, climate action, and international partnership.
 
-#### 8.1.2 SDG9 Industry, Innovation, and Infrastructure
+Each Goal is defined not as an abstract aspiration but as a structured commitment, a set of specific Targets that describe the outcomes to be achieved by 2030, and a corresponding set of Indicators through which progress toward those outcomes is formally tracked. 
 
-#### 8.1.3 SDG11 Sustainable Cities and Communities
+This architecture transforms the SDGs from declarations into instruments of accountability, enabling organizations, governments, and communities to assess their contribution to the broader agenda with precision rather than approximation.
 
-#### 8.1.4 SDG16 Peace, Justice, and Strong Institutions
+Purgatoria's alignment with the SDGs does not originate from a desire for external validation or institutional recognition. 
 
-#### 8.1.5 SDG17 Partnerships for the Goals
+It originates from the recognition that the problems Purgatoria exists to address, the fragility of communications infrastructure in underserved and disaster-affected regions, the inaccessibility of technical education, the opacity of institutional governance, the absence of resilient public-interest technology, are the same problems the SDG framework was designed to make visible and tractable. 
+
+Purgatoria's work, in its technical, educational, and organizational dimensions, constitutes a direct and operational response to a subset of these goals.
+
+The SDGs to which Purgatoria most substantively contributes are identified and mapped in the subsections that follow. 
+
+For each Goal, the specific Targets that Purgatoria's activities address are identified, and the corresponding Indicators through which that contribution can be observed and measured are listed. 
+
+This mapping is intended to be honest rather than exhaustive, only those Targets and Indicators for which a genuine and demonstrable connection exists are included.
+ 
 
 ## 9. Governance Framework
 The operational integrity, strategic direction, and administrative continuity of the Purgatoria Association are governed by a robust institutional architecture designed to withstand systemic disruptions and organizational fragmentation.
