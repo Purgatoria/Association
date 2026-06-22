@@ -2,9 +2,15 @@
  
 Everything pertaining to the Purgatoria Community and its projects shall be managed via this main repository, executed in accordance with the provisions outlined here, and all events shall be reported herein.
 
+> [!IMPORTANT]
+>Every document, ledger, issue, and discussion under this repository **must be written in English**.
+
+> [!TIP]
+>Isbu metnin Turkce tercumesini blog.purgatoria.tr uzerinden okuyabilirsiniz.
+
+> [!NOTE]
 >Tools such as DeepL, Grammarly, Gemini, Claude, ChatGPT, Copilot, and Deepseek were used to translate this text from Archaic Turkish to Modern English.
 
->Isbu metnin Turkce tercumesini blog.purgatoria.tr uzerinden okuyabilirsiniz.
  
 ## Table of Contents
  
@@ -1616,6 +1622,7 @@ This section covers advanced engineering applications and geospatial engines dep
 #### 11.4.1 PurgTopo
 The **Purgatoria Topological Mapping and Map Generation Engine** is an analytical mapping engine similar to [CalTopo](https://caltopo.com/). 
 
+>> [!IMPORTANT]
 >Due to its military-grade capability, access is restricted to verified personnel while active development continues.
 
 It digests high-resolution geospatial datasets and open-source map tiles to layer custom markers and divide operational areas into custom grids, rendering mathematically precise, scaled hardcopy maps for field operations. 
@@ -1623,6 +1630,7 @@ It digests high-resolution geospatial datasets and open-source map tiles to laye
 #### 11.4.2 PurgPro
 The **Purgatoria RF Propagation and Coverage Prediction Engine** simulates, predicts, and documents radio frequency signal footprints. 
 
+>> [!IMPORTANT]
 >Due to its military-grade performance, access remains restricted during active development.
 
 Similar to [Heywhatsthat](https://heywhatsthat.com/), [CloudRF](https://cloudrf.com/), and [RadioMobile](https://www.ve2dbe.com/rmonline_s.asp), it leverages high-resolution datasets and intense processing power to deliver high-accuracy modeling. 
@@ -1643,7 +1651,8 @@ Active participation in competitive events and operations serves as a vital tool
 #### 11.6.1 TA VHF UHF Contest
 Organized annually by TRAC (Turkiye Radyo Amatorleri Cemiyeti), this is Turkey's premier national amateur radio competition. 
 
->Purgatoria acts strictly as a participant and strong advocate for this event, not its host.
+> [!WARNING]
+>Purgatoria acts strictly as a participant and strong advocate for this event, **not its host**.
 
 It aims to develop operating practices on VHF/UHF bands across the country and cross-border countries. 
 Operators race during a 24-hour window to accumulate points by contacting distant stations. 
@@ -1765,6 +1774,7 @@ The management layer controls and centralizes all listed credentials via the pur
 
 With your system provisions finalized and your network credentials successfully issued, you are now fully equipped. Welcome to the operational grid of the Purgatoria Organisation.
 
+> [!NOTE]
 > This core list updates automatically as new infrastructure services deploy.
 
 #### 13.5.1 PurgMail 
@@ -1800,6 +1810,7 @@ This call sign acts as the operator's primary identity during RF operations and 
 
 Furthermore, this license is an absolute prerequisite to access specialized Purgatoria network services and infrastructure. 
 
+> [!CAUTION]
 >It must be renewed every 10 years.
 
 #### 13.6.2 SWL License
@@ -1807,7 +1818,8 @@ Issued by state regulatory bodies, the Shortwave Listener (SWL) license authoriz
 
 It permits operators to officially log intercepted communications and exchange formal SWL verification cards with transmitting stations. 
 
->This license does not grant transmit authority, requires no periodic renewal, and remains valid for life.
+> [!CAUTION]
+>**This license does not grant transmit authority**, requires no periodic renewal, and remains valid for life.
 
 #### 13.6.3 KMT License
 The Short Range Radio Usage Certificate (Kisa Mesafe Telsiz - KMT) is issued by state authorities in Turkey alongside the Amateur Seaman Certificate (ADB). 
@@ -1816,6 +1828,7 @@ It legalizes the operation of Marine Band frequencies strictly aboard maritime v
 
 **This certificate does not issue a personal call sign, nor does it grant the right to program or operate Marine Band frequencies on standard amateur radio equipment.**
 
+> [!CAUTION]
 >It must be renewed every 5 years.
 
 ### 13.7 Extension Licenses
@@ -2489,9 +2502,13 @@ Any unauthorized commercial exploitation, closed-source derivative development, 
 
 ## 20. Contact
 To contact the Purgatoria administration directly via e-mail:
+
 English: info@purgatoria.net
+---
 Turkish: info@purgatoria.tr
+---
 Chinese: info@purgatoria.cn
+---
 
 To contact the Purgatoria administration directly via **OpenPGP**:
 **e-mail:** info@purgatoria.net
